@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author masud
+ *
+ */
+module HomeWorkCoreJava {
+}
